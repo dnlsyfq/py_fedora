@@ -40,3 +40,39 @@ pip freeze > requirements.txt
 
 pip install -r requirements.txt
 ```
+
+
+### Tuple 
+constant value 
+tuplevar = (1,2,3) # doesnt allow reassign value
+
+### Binary , bitwise
+
+a = 0b11110000
+b = 0b11001100
+bin(a)
+a 
+bin(a&b)
+bin(a|b)
+bin(a^b)
+bin(b >> 3)
+
+
+n1 = 3
+n2 = 3
+
+n1 is n2 
+n1 == n2 
+n1 in [15,30,23]
+n1 not in [15,23,14]
+
+
+
+
+
+
+
+
+
+
+
