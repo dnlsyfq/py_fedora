@@ -43,11 +43,13 @@ pip install -r requirements.txt
 
 
 ### Tuple 
+```
 constant value 
 tuplevar = (1,2,3) # doesnt allow reassign value
+```
 
 ### Binary , bitwise
-
+```
 a = 0b11110000
 b = 0b11001100
 bin(a)
@@ -65,14 +67,19 @@ n1 is n2
 n1 == n2 
 n1 in [15,30,23]
 n1 not in [15,23,14]
+```
 
 
+### loops and conditional statements
+```
+mkdir myProject
+python -m venv myProject/myVenv
+vim myProject/loops.py
+source myProject/myVenv/bin/activate 
+cd myProject
+python loops.py
 
 
-
-
-
-
-
-
+chmod +x _.py
+```
 
